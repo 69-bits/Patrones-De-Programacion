@@ -4,7 +4,7 @@ Este repositorio contiene ejemplos de implementaciones de diversos patrones de d
 
 ## Introducción
 
-Los patrones de diseño son soluciones probadas para problemas comunes en el diseño de software. Permiten crear diseños flexibles, reutilizables y mantenibles en el desarrollo de aplicaciones. Este repositorio presenta ejemplos y explicaciones de algunos de los patrones de diseño más utilizados.
+Los patrones de diseño son soluciones probadas para problemas comunes en el diseño de videojuegos. Permiten crear diseños flexibles, reutilizables y mantenibles en el desarrollo de videojuegos. Este repositorio presenta ejemplos y explicaciones de algunos de los patrones de diseño más utilizados.
 
 ## Patrones Incluidos
 
